@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, MessageHandler, Filters
 
-Token = "6658883117:AAEvptiN_eGRdMHQZX1J0yTzBtnL3hWfUgQ"
+Token = "API TOKEN"
 
 updater = Updater(Token, use_context=True)
 dispatcher = updater.dispatcher
