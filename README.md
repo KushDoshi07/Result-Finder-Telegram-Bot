@@ -1,5 +1,3 @@
-# Result-Finder-Telegram-Bot
-
 <!DOCTYPE html>
 <html lang="en">
 <body>
